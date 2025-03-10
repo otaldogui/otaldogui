@@ -55,14 +55,4 @@ Olá, meu nome é Guilherme e estou iniciando minha jornada na área de programa
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=otaldogui&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
   />
-  
-<br/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaldogui&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
