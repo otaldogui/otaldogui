@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Guilherme Carvalho
 
-**`Desenvolvedora Fullstack`**
+**`Entusiasta em CyberSegurança`**
 
 Olá, meu nome é Guilherme e estou iniciando minha jornada na área de programação, Mais focado em Cybersegurança. Atualmente, estou focado no aprendizado de Python, SQL. Embora ainda esteja no começo, tenho muita determinação em evoluir e conquistar meu espaço nesse campo.
 
