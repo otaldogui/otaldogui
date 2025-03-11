@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Fullstack`**
 
-Olá, meu nome é Guilherme e estou iniciando minha jornada na área de programação. Atualmente, estou focado no aprendizado de Python, HTML e CSS. Embora ainda esteja no começo, tenho muita determinação em evoluir e conquistar meu espaço nesse campo.
+Olá, meu nome é Guilherme e estou iniciando minha jornada na área de programação, Mais focado em Cybersegurança. Atualmente, estou focado no aprendizado de Python, SQL. Embora ainda esteja no começo, tenho muita determinação em evoluir e conquistar meu espaço nesse campo.
 
 ---
 
@@ -13,7 +13,7 @@ Olá, meu nome é Guilherme e estou iniciando minha jornada na área de programa
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style=dding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
